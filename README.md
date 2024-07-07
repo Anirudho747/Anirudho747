@@ -4,5 +4,5 @@ Skillset/Tools known: HTML, Selenium, WebdriverIO, Rest Assured, Postman, K6, Ma
 
 🌱 I’m currently learning and growing as a Quality Engineer
 💬 Ask me about Selenium, Appium,Framework development, Rest Assured, WebdriverIO.
-📫 How to reach me: anirudho.sengupta@live.com
-Here is my Linkedin profile  www.linkedin.com/in/anirudhosengupta7777  
+📫Write to me: anirudho.sengupta@live.com
+  Linkedin profile  www.linkedin.com/in/anirudhosengupta7777  
