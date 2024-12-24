@@ -1,5 +1,5 @@
 Hi there 👋, My name is Anirudho Sengupta
-I am working as a Senior Tester currently.
+I am working as an SDET-III currently.
 Skillset/Tools known: HTML, Selenium, WebdriverIO, Rest Assured, Postman, K6, Maven, GIT, Cucumber, JUnit, TestNG, Java, JavaScript, Appium.
 
 🌱 I’m currently learning and growing as a Quality Engineer
